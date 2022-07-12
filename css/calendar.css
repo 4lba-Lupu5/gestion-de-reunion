@@ -1,0 +1,40 @@
+.calendar {
+    margin-top:auto;
+    border-collapse: collapse;
+    margin-left:auto;
+    margin-right:auto;
+    width:auto;
+    height:auto;
+    text-align:left;
+    cursor: pointer;;
+    }
+
+    .calendar th {
+    font-family:'Times New Roman', Times, serif;
+    padding: 3px;
+    font-size:17px;
+    font-weight:bold;
+    text-align:center;
+    align-items: center;
+    }
+
+    .calendar td{
+        font-weight:700;
+        padding: 6px;
+        grid-gap: 10px;
+    }
+
+    td.ferier
+    {
+    font-weight:700;
+    color:red;
+    }
+
+
+
+    h5{
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+        font-weight:bold;
+        font-size: 30px;
+    }

@@ -1,0 +1,129 @@
+body{
+    background-image: url("../UI Design/wall.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+ 
+.connected{
+border-radius: 65%;
+    width: 150px;
+}
+
+.wraphome{
+    width: auto;
+    border-radius: 10px;
+    background: #34495e;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 5px;
+    color: #fff;
+    margin-top: 50px;
+    border: 2px solid  #34495e;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: box-shadow .3s ease,-webkit-box-shadow .3s ease;
+} 
+
+h2{
+    text-align: center;
+}
+
+.wraphome:input[type=text],input[type=date],{
+    width: 80px;
+    height: 50px;
+    box-sizing: border-box;
+    padding: 0px 5px;
+    background: rgba(0, 0, 0, 0.10);
+    outline: none;
+    border: none;
+    border-bottom: 1px dotted #fff;
+    color: #fff;
+    border-radius: 3px;
+    margin: 5px;
+    margin: auto;
+    font-weight: bold;
+} 
+
+/* .edit{
+    width: auto;
+    height: 50px;
+    box-sizing: border-box;
+    padding: 0px 5px;
+    outline: none;
+    border: none;
+    border-bottom: 1px dotted #fff;
+    color: #fff;
+    border-radius: 3px;
+    margin: 5px;
+    font-weight: bold;
+} */
+
+.gridhome{
+    background: whitesmoke;
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 50px;
+    border: 2px solid rgba(245, 245, 245);
+    background: rgba(245, 245, 245);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.board{
+    padding-bottom: 30px;
+
+
+}
+
+/*//////////////////////////////////////////*/
+.supprime{
+    color:red;
+}
+.supprime:hover{
+    color:red;
+    opacity: 0.8;
+}
+.archive{
+    color:darkorange;
+}
+.archive:hover{
+    color:darkorange;
+    opacity: 0.8;
+}
+.charge{
+    color:green;
+}
+.charge:hover{
+    color:green;
+    opacity: 0.8;
+}
+.modifie{
+    color:blue;
+}
+.modifie:hover{
+    color:blue;
+    opacity: 0.8;
+}
+#button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 26px;
+    border: none;
+    cursor: pointer;
+    width: 90%;
+	font-size:20px;
+}
+
+#buttonOrdre{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 16px;
+/*    margin: 8px 26px;*/
+    border: none;
+    cursor: pointer;
+    width: 90%;
+	font-size:20px;
+}
+/*//////////////////////////////////////////*/
