@@ -1,5 +1,5 @@
 # gestion_de_reumion
-Site de gestion de reunions fait avec HTML5/CSS3 et PhP
+Site de gestion de reunions fait avec PhP, HTML5/CSS3 et JS
 
 <h2>Details sur les configuarations initiales</h2>
 <ol>
