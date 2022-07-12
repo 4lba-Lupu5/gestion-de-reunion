@@ -1,0 +1,17 @@
+username: "test"
+password: "test"
+
+
+
+username: "theRipper"
+password: "Blue9"
+
+
+
+username: "admin"
+password: "ADMIN"
+
+
+
+username: "diallo2022"
+password: "12345a"
